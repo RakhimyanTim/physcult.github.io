@@ -1,10 +1,8 @@
 - link: /features/
-  name: Features
-- link: /pricing/
-  name: Pricing
+  name: Функции
+- link: /how-it-works/
+  name: Как это работает
 - link: /blog/
-  name: Blog
-- link: https://learn.cloudcannon.com/
-  name: Guides
-- link: https://docs.cloudcannon.com/
-  name: Docs
+  name: Блог
+- link: /https://help.physcult.pullnfit.ru/
+  name: Помощь
