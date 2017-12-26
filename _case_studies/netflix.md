@@ -18,7 +18,7 @@ testimonial:
   text_markdown: "Старшеклассники хотят сдать нормативы ГТО, потому что они получают дополнительные баллы к ЕГЭ. Но их подготовкой никто не занимается, так как специалистов не хватает, а учителям физкультуры попросту некогда."
   image_path: /images/customers/netflix/svetlana.jpg
   name: Светлана Никитина
-  work_title: Руководитель центра тестирования ГТО
+  work_title: Руководитель центра тестирования ГТО (Уфа, Россия)
   work_path: https://netflix.com
 overview:
   - image_path: /images/customers/netflix/home.png
