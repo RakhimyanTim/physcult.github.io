@@ -2,7 +2,7 @@
 sort_key: 1
 name: Netflix
 title: Netflix Case Study
-logo: 
+logo: Netflix
 site: https://devices.netflix.com
 site_name: Netflix Devices
 tagline: The world’s leading Internet television network with over 62 million members.
