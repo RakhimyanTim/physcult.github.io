@@ -5,11 +5,6 @@
 				<h2>{{ include.heading }}</h2>
 				{{ include.content_markdown | markdownify }}
 				{% if include.storage_provider_icons %}
-					<div class="storage-provider-icons">
-						{% include svgs/storage-provider-logos.html icon="github" %}
-						{% include svgs/storage-provider-logos.html icon="bitbucket" %}
-						{% include svgs/storage-provider-logos.html icon="dropbox" %}
-					</div>
 				{% endif %}
 			</div>
 			<div class="landing-image">
