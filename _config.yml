@@ -1,15 +1,15 @@
 # ----
 # Site
 
-title: CloudCannon
-description: CloudCannon has everything you need to build, host and update Jekyll websites.
-url: https://cloudcannon.com
-disqus_shortname: cloudcannon
+title: Physcult.Pullnfit
+description: Сервис, который помогает учителям физкультуры монетизировать свою внеурочную работу.
+url: https://physcult.pullnfit.ru
+disqus_shortname: physcult
 baseurl:
 
-google_site_verification: GkBrJRSQqF43wQVGLUeUJFTPBldtIXGCw9toqvS2o_o
+google_site_verification: 
 permalink: pretty
-timezone: Pacific/Auckland
+timezone: YEKT
 collections:
   case_studies:
     output: false
@@ -31,17 +31,17 @@ defaults:
 lang: en_NZ
 logo: /siteicon.png
 twitter:
-  username: CloudCannon
+  username: Physcult.Pulnfit
 facebook:
-  publisher: https://www.facebook.com/CloudCannon
+  publisher: https://www.facebook.com/Physcult.Pulnfit
 social:
-  name: CloudCannon
+  name: Physcult.Pulnfit
   links:
-    - https://twitter.com/CloudCannon
-    - https://www.facebook.com/CloudCannon
-    - https://plus.google.com/+CloudCannon
-    - https://www.youtube.com/c/CloudCannon
-    - https://github.com/CloudCannon
+    - https://twitter.com/Physcult.Pulnfit
+    - https://www.facebook.com/Physcult.Pulnfit
+    - https://plus.google.com/+Physcult.Pulnfit
+    - https://www.youtube.com/c/Physcult.Pulnfit
+    - https://github.com/Physcult.Pulnfit
 
 exclude:
   - Gemfile
