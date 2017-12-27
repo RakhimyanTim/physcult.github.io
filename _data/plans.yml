@@ -1,37 +1,30 @@
 - name: Free
   price: 0
-  sub: Great for development
+  sub: Для пробы
   features:
-    - Live test sites
-    - GitHub, Bitbucket and Dropbox syncing
-    - Single user
+    - 3 программы/мес
 - name: Basic
-  price: 25
-  sub: Perfect for freelancers
+  price: 1000
+  sub: Для смелых
   highlight: true
   features:
-    - Unlimited productions sites
-    - Custom domains and DNS
-    - Per site sharing
-    - Free editing for clients
+    - 10 программ/мес
+    - Обучение и оптимизация
 - name: Pro
-  price: 75
-  sub: For teams of any size
+  price: 3000
+  sub: Для профессионалов
   features:
-    - Includes 5 team members
-    - Organisation support
-    - Custom branding
-    - Team sharing
-    - SAML support
+    - 30 программ/мес
+    - Обучение и оптимизация
+    - Поддержка
 - name: Enterprise
-  price_alt: Enquire
-  sub: Join companies like Netflix
+  price_alt: По запросу
+  sub: Присоединяйтесь к таким компаниям, как i-Школа
   features:
-    - Larger teams
-    - Training and optimisations
-    - Priority support
-    - Prioritised feature development
+    - Неограниченное количество программ/мес
+    - Обучение и оптимизация
+    - Приоритетная поддержка
   cta:
-    text: Contact Us
+    text: Связаться
     link: /contact/
 
